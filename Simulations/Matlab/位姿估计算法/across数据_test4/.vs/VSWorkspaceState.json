@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\algorithm",
+    "\\algorithm\\02_Common",
+    "\\algorithm\\02_Common\\COMMON",
+    "\\algorithm\\02_Common\\RINGBUFFER",
+    "\\algorithm\\06_Application",
+    "\\algorithm\\06_Application\\00_Algorithm",
+    "\\algorithm\\06_Application\\04_Task",
+    "\\slprj"
+  ],
+  "SelectedNode": "\\algorithm\\06_Application\\04_Task\\task_integrated_navigation.c",
+  "PreviewInSolutionExplorer": false
+}
